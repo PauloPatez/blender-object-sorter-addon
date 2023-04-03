@@ -4,7 +4,7 @@ This add-on provides a quick and easy way to sort the objects inside a collectio
 I created this add-on because I needed the objects inside collections in a specific order for a geometry nodes project, and found that sorting them alphabetically was the easiest way to achieve this.
 
 ## Installation
-1. Download the latest release of the add-on as a .zip file.
+1. Download the [latest release](https://github.com/PauloPatez/blender-object-sorter-addon/releases/download/v0.0.1/object-sorter-v0.0.1.zip) of the add-on as a .zip file.
 2. In Blender, go to Edit > Preferences > Add-ons.
 3. Click the "Install" button and select the downloaded .zip file.
 4. Enable the add-on by checking the box next to its name.
